@@ -1,12 +1,53 @@
+-- Models ---
+
+Colosseum Walls
+by Sereib
+Link: https://sketchfab.com/3d-models/medieval-multi-story-arch-bridge-42befed15e8343488b3f3f127a6c9a5d
+
+Fire Pillar
+by Lazanja
+Link: https://sketchfab.com/3d-models/fire-pillar-c1cf417e440f411aae02c28d61ec2cc5
+
+Tree
+by zackmillot
+Link: https://sketchfab.com/3d-models/tree-b5183be5d2d447f09b9dab247808b010
+
+--- BGM ---
+
+Boss Music
+by NastelBom
+Link: https://pixabay.com/music/adventure-thriller-466249/
+
+
 --- SFX ---
+
+Cracking Earthquake
+by Freesound Community
+Link: https://pixabay.com/sound-effects/nature-052256-cracking-earthquake-cracking-soil-cracking-stone-86770/
 
 Fire
 by MaxHammarback
 Link: https://pixabay.com/sound-effects/fire-sound-efftect-21991/
 
+Footsteps
+by mypantsfelldown (Freesound)
+Link: https://pixabay.com/sound-effects/film-special-effects-concrete-footsteps-6752/
+
 Rain
 by MindMist
 Link: https://pixabay.com/sound-effects/nature-night-rain-with-distant-thunder-321446/
+
+Rocks Falling 01
+by adamgryu (Freesound)
+Link: https://pixabay.com/sound-effects/film-special-effects-rocks-6129/
+
+Rocks Falling 02
+by iwanPlays (Freedsound)
+Link: https://pixabay.com/sound-effects/film-special-effects-stones-falling-6375/
+
+Rumble
+by DRAGON-STUDIO
+Link: https://pixabay.com/sound-effects/dry-thunder-rumble-459101/
 
 Wind
 by JoeDinesSound
