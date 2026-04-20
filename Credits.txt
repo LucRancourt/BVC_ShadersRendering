@@ -1,4 +1,23 @@
+--- Original Reference ---
+by Elden Ring
+
+
+--- Video Refs ---
+
+Galaxy Shader
+by UnrealCG
+Link: https://www.youtube.com/watch?v=tMEJR6SsCxY
+
+Stylized Clouds
+by Pitchfork Academy
+Link: https://www.youtube.com/watch?v=wDNHKsIwarA
+
+
 -- Models ---
+
+Bridge
+by Nikolayy
+Link: https://sketchfab.com/3d-models/bridge-545a57d9785443bca9b135da2e497bc0
 
 Colosseum Walls
 by Sereib
@@ -8,9 +27,26 @@ Fire Pillar
 by Lazanja
 Link: https://sketchfab.com/3d-models/fire-pillar-c1cf417e440f411aae02c28d61ec2cc5
 
+Island
+by NJ
+Link: https://sketchfab.com/3d-models/fantasy-mystical-island-fb8b726f1e124e239b60fccc8cc6d6f8
+
+Pillar
+by Bl4ckGh0st
+Link: https://sketchfab.com/3d-models/low-poly-decorative-pillar-457333935d554757b88a36c3b1fd7ed4
+
+Statue (Giant)
+by abhayexe
+Link: https://sketchfab.com/3d-models/giant-scifi-statue-069dd59c2f4a4b08b9649aabc3e4f5e1
+
+Sword 
+by Ahsan.Faraz
+Link: https://sketchfab.com/3d-models/starpiercer-sword-adf446fd6da5466b99595ff7cc7db652
+
 Tree
 by zackmillot
 Link: https://sketchfab.com/3d-models/tree-b5183be5d2d447f09b9dab247808b010
+
 
 --- BGM ---
 
@@ -52,3 +88,18 @@ Link: https://pixabay.com/sound-effects/dry-thunder-rumble-459101/
 Wind
 by JoeDinesSound
 Link: https://pixabay.com/sound-effects/nature-stormy-wind-sound-35504/
+
+
+--- Particles ---
+
+Fire
+by Unreal Engine
+Converted from old StarterContent/Particle system to Niagara
+
+Rain
+by Me (No Refs)
+
+
+--- Other ---
+Boss's "Cloth Shader"
+by Me (No Refs)
